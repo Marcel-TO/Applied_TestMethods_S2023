@@ -7,8 +7,8 @@ This repository contains the test exercises from the lecture "Angewandte Testver
 
 # Who watches the watchman?
 ## Assignment
-Prepare a comprehensive test that covers the functionality of the [Tour of Heroes Web Application](https://files.perry.fyi/hero/).
-Evaluate the functionality of the application and implement a test using [Selenium](https://www.selenium.dev/) for browser automation.
+Prepare a comprehensive test that covers the functionality of the <a href="https://files.perry.fyi/hero/" target="_blank">Tour of Heroes Web Application</a>.
+Evaluate the functionality of the application and implement a test using <a href="https://www.selenium.dev/" target="_blank">Selenium</a> for browser automation.
 
 The assignment will be graded based on
 - Test Coverage
@@ -58,4 +58,4 @@ class Order
 Implement and test both the Order class and an implementation of IWarehouse.
 When testing the Order class, use both your custom implementation of IWarehouse as well as Mock objects for testing the behaviour of Order.
 
-Use [moq](https://github.com/moq/moq4) or an equivalent Mocking library of your choice.
+Use <a href="https://github.com/moq/moq4" target="_blank">MOQ</a> or an equivalent Mocking library of your choice.
