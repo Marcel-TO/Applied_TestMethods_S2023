@@ -1,6 +1,4 @@
-using ToKillAMockingBird;
-
-namespace ToKillAMockingBirdTests;
+namespace ToKillAMockingbirdTests;
 
 [TestClass]
 public class UnitTest1

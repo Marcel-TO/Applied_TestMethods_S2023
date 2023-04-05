@@ -6,6 +6,7 @@
     <Nullable>enable</Nullable>
 
     <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
   </PropertyGroup>
 
   <ItemGroup>
@@ -16,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ToKillAMockingbird\ToKillAMockingbird.csproj" />
+    <ProjectReference Include="..\MockingbirdLibrary\MockingbirdLibrary.csproj" />
   </ItemGroup>
 
 </Project>

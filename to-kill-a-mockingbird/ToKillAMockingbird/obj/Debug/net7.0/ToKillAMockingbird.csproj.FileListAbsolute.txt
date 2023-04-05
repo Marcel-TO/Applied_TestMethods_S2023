@@ -1,15 +1,33 @@
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\bin\Debug\net7.0\ToKillAMockingbird.exe
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\bin\Debug\net7.0\ToKillAMockingbird.deps.json
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\bin\Debug\net7.0\ToKillAMockingbird.runtimeconfig.json
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\bin\Debug\net7.0\ToKillAMockingbird.dll
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\bin\Debug\net7.0\ToKillAMockingbird.pdb
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\obj\Debug\net7.0\ToKillAMockingbird.csproj.AssemblyReference.cache
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\obj\Debug\net7.0\ToKillAMockingbird.GeneratedMSBuildEditorConfig.editorconfig
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\obj\Debug\net7.0\ToKillAMockingbird.AssemblyInfoInputs.cache
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\obj\Debug\net7.0\ToKillAMockingbird.AssemblyInfo.cs
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\obj\Debug\net7.0\ToKillAMockingbird.csproj.CoreCompileInputs.cache
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\obj\Debug\net7.0\ToKillAMockingbird.dll
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\obj\Debug\net7.0\refint\ToKillAMockingbird.dll
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\obj\Debug\net7.0\ToKillAMockingbird.pdb
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\obj\Debug\net7.0\ToKillAMockingbird.genruntimeconfig.cache
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingbird\obj\Debug\net7.0\ref\ToKillAMockingbird.dll
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/bin/Debug/net7.0/ToKillAMockingbird.exe
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/bin/Debug/net7.0/ToKillAMockingbird.deps.json
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/bin/Debug/net7.0/ToKillAMockingbird.runtimeconfig.json
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/bin/Debug/net7.0/ToKillAMockingbird.dll
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/bin/Debug/net7.0/ToKillAMockingbird.pdb
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.csproj.AssemblyReference.cache
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.GeneratedMSBuildEditorConfig.editorconfig
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.AssemblyInfoInputs.cache
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.AssemblyInfo.cs
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.csproj.CoreCompileInputs.cache
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.dll
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/refint/ToKillAMockingbird.dll
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.pdb
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.genruntimeconfig.cache
+M:/Marcel/Desktop/Studium/4.Semester/Angewandte_Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ref/ToKillAMockingbird.dll
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/bin/Debug/net7.0/ToKillAMockingbird
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/bin/Debug/net7.0/ToKillAMockingbird.deps.json
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/bin/Debug/net7.0/ToKillAMockingbird.runtimeconfig.json
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/bin/Debug/net7.0/ToKillAMockingbird.dll
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/bin/Debug/net7.0/ToKillAMockingbird.pdb
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/bin/Debug/net7.0/MockingbirdLibrary.dll
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/bin/Debug/net7.0/MockingbirdLibrary.pdb
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.csproj.AssemblyReference.cache
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.AssemblyInfoInputs.cache
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.AssemblyInfo.cs
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.csproj.CoreCompileInputs.cache
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.csproj.CopyComplete
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.dll
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/refint/ToKillAMockingbird.dll
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.pdb
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ToKillAMockingbird.genruntimeconfig.cache
+/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbird/obj/Debug/net7.0/ref/ToKillAMockingbird.dll
