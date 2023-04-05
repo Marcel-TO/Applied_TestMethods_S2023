@@ -1,7 +1,7 @@
 ﻿namespace ToKillAMockingBird
 {
     using System;
-    using MockingbirdLibrary.Logic;
+    using MockingbirdLibrary.Mocks;
 
     class Program
     {

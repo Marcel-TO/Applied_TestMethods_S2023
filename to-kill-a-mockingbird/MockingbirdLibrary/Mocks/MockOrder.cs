@@ -26,7 +26,7 @@ namespace MockingbirdLibrary.Mocks
                 return this._product;
             }
 
-            private set
+            set
             {
                 if (value == null)
                 {
