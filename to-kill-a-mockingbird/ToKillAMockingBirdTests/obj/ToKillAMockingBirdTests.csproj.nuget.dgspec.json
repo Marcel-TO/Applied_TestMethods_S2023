@@ -1,31 +1,102 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbirdTests/ToKillAMockingbirdTests.csproj": {}
+    "M:\\Marcel\\Desktop\\Studium\\4.Semester\\Angewandte_Testverfahren\\GIT\\to-kill-a-mockingbird\\ToKillAMockingBirdTests\\ToKillAMockingBirdTests.csproj": {}
   },
   "projects": {
-    "/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbirdTests/ToKillAMockingbirdTests.csproj": {
+    "M:\\Marcel\\Desktop\\Studium\\4.Semester\\Angewandte_Testverfahren\\GIT\\to-kill-a-mockingbird\\MockingbirdLibrary\\MockingbirdLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbirdTests/ToKillAMockingbirdTests.csproj",
-        "projectName": "ToKillAMockingbirdTests",
-        "projectPath": "/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbirdTests/ToKillAMockingbirdTests.csproj",
-        "packagesPath": "/Users/marcel/.nuget/packages/",
-        "outputPath": "/Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/ToKillAMockingbirdTests/obj/",
+        "projectUniqueName": "M:\\Marcel\\Desktop\\Studium\\4.Semester\\Angewandte_Testverfahren\\GIT\\to-kill-a-mockingbird\\MockingbirdLibrary\\MockingbirdLibrary.csproj",
+        "projectName": "MockingbirdLibrary",
+        "projectPath": "M:\\Marcel\\Desktop\\Studium\\4.Semester\\Angewandte_Testverfahren\\GIT\\to-kill-a-mockingbird\\MockingbirdLibrary\\MockingbirdLibrary.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "M:\\Marcel\\Desktop\\Studium\\4.Semester\\Angewandte_Testverfahren\\GIT\\to-kill-a-mockingbird\\MockingbirdLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/marcel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "M:\\Marcel\\Desktop\\Studium\\4.Semester\\Angewandte_Testverfahren\\GIT\\to-kill-a-mockingbird\\ToKillAMockingBirdTests\\ToKillAMockingBirdTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "M:\\Marcel\\Desktop\\Studium\\4.Semester\\Angewandte_Testverfahren\\GIT\\to-kill-a-mockingbird\\ToKillAMockingBirdTests\\ToKillAMockingBirdTests.csproj",
+        "projectName": "ToKillAMockingBirdTests",
+        "projectPath": "M:\\Marcel\\Desktop\\Studium\\4.Semester\\Angewandte_Testverfahren\\GIT\\to-kill-a-mockingbird\\ToKillAMockingBirdTests\\ToKillAMockingBirdTests.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "M:\\Marcel\\Desktop\\Studium\\4.Semester\\Angewandte_Testverfahren\\GIT\\to-kill-a-mockingbird\\ToKillAMockingBirdTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "M:\\Marcel\\Desktop\\Studium\\4.Semester\\Angewandte_Testverfahren\\GIT\\to-kill-a-mockingbird\\MockingbirdLibrary\\MockingbirdLibrary.csproj": {
+                "projectPath": "M:\\Marcel\\Desktop\\Studium\\4.Semester\\Angewandte_Testverfahren\\GIT\\to-kill-a-mockingbird\\MockingbirdLibrary\\MockingbirdLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -71,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

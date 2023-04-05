@@ -1,4 +1,4 @@
-namespace MockingbirdLibrary.Logic
+namespace MockingbirdLibrary.Mocks
 {
     using MockingbirdLibrary.Exceptions;
     using MockingbirdLibrary.Interfaces;

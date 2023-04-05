@@ -10,3 +10,15 @@
 /Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/MockingbirdLibrary/obj/Debug/net7.0/refint/MockingbirdLibrary.dll
 /Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/MockingbirdLibrary/obj/Debug/net7.0/MockingbirdLibrary.pdb
 /Users/marcel/Desktop/Studium/4.Semester/Angewandte Testverfahren/GIT/to-kill-a-mockingbird/MockingbirdLibrary/obj/Debug/net7.0/ref/MockingbirdLibrary.dll
+M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\MockingbirdLibrary\bin\Debug\net7.0\MockingbirdLibrary.deps.json
+M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\MockingbirdLibrary\bin\Debug\net7.0\MockingbirdLibrary.dll
+M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\MockingbirdLibrary\bin\Debug\net7.0\MockingbirdLibrary.pdb
+M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\MockingbirdLibrary\obj\Debug\net7.0\MockingbirdLibrary.csproj.AssemblyReference.cache
+M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\MockingbirdLibrary\obj\Debug\net7.0\MockingbirdLibrary.GeneratedMSBuildEditorConfig.editorconfig
+M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\MockingbirdLibrary\obj\Debug\net7.0\MockingbirdLibrary.AssemblyInfoInputs.cache
+M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\MockingbirdLibrary\obj\Debug\net7.0\MockingbirdLibrary.AssemblyInfo.cs
+M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\MockingbirdLibrary\obj\Debug\net7.0\MockingbirdLibrary.csproj.CoreCompileInputs.cache
+M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\MockingbirdLibrary\obj\Debug\net7.0\MockingbirdLibrary.dll
+M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\MockingbirdLibrary\obj\Debug\net7.0\refint\MockingbirdLibrary.dll
+M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\MockingbirdLibrary\obj\Debug\net7.0\MockingbirdLibrary.pdb
+M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\MockingbirdLibrary\obj\Debug\net7.0\ref\MockingbirdLibrary.dll
