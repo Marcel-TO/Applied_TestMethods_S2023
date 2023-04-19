@@ -1,16 +1,15 @@
-namespace MockingbirdLibrary.Mocks
+namespace MockingbirdLibrary
 {
-    using System.Linq;
     using MockingbirdLibrary.Exceptions;
     using MockingbirdLibrary.Interfaces;
 
     public class MockWarehouse : IWarehouse
     {
-        private List<MockOrder> _warehouse;
+        private List<Order> _warehouse;
 
         public MockWarehouse()
         {
-            this._warehouse = new List<MockOrder>();
+            this._warehouse = new List<Order>();
         }
 
         public void AddStock(string product, int amount)
@@ -28,7 +27,7 @@ namespace MockingbirdLibrary.Mocks
             // checks if the product doesn't exist yet.
             if (!this.HasProduct(product))
             {
-                this._warehouse.Add(new MockOrder(product, amount));
+                this._warehouse.Add(new Order(product, amount));
                 return;
             }
 

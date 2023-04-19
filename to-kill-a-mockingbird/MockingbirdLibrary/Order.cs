@@ -1,9 +1,9 @@
-namespace MockingbirdLibrary.Mocks
+namespace MockingbirdLibrary
 {
     using MockingbirdLibrary.Exceptions;
     using MockingbirdLibrary.Interfaces;
 
-    public class MockOrder : IOrder
+    public class Order : IOrder
     {
         private string _product;
 
@@ -12,7 +12,7 @@ namespace MockingbirdLibrary.Mocks
         private bool _isFilled;
 
         #pragma warning disable CS8618
-        public MockOrder(string product, int amount)
+        public Order(string product, int amount)
         {
             this.Product = product;
             this.Amount = amount;

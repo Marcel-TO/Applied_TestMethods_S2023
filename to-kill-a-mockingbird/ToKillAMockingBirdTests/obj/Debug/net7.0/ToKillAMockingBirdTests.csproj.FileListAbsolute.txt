@@ -1,10 +1,6 @@
 M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingBirdTests\bin\Debug\net7.0\CoverletSourceRootsMapping
 M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingBirdTests\bin\Debug\net7.0\testhost.dll
 M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingBirdTests\bin\Debug\net7.0\testhost.exe
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingBirdTests\bin\Debug\net7.0\de\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingBirdTests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingBirdTests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
-M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingBirdTests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingBirdTests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingBirdTests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 M:\Marcel\Desktop\Studium\4.Semester\Angewandte_Testverfahren\GIT\to-kill-a-mockingbird\ToKillAMockingBirdTests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

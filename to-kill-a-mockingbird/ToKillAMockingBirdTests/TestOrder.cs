@@ -1,8 +1,9 @@
-namespace ToKillAMockingBirdTests.Mocks
+namespace ToKillAMockingBirdTests
 {
-    using MockingbirdLibrary.Mocks;
+    using MockingbirdLibrary;
     using MockingbirdLibrary.Interfaces;
     using MockingbirdLibrary.Exceptions;
+    using Moq;
 
     [TestClass]
     public class TestMocksOrder
@@ -12,7 +13,7 @@ namespace ToKillAMockingBirdTests.Mocks
         [DataRow("Banana", 4)]
         public void TestInitializingOrder(string product, int amount)
         {
-            MockOrder order = new MockOrder(product, amount);
+            Order order = new Order(product, amount);
             Assert.AreEqual(product, order.Product);
             Assert.AreEqual(amount, order.Amount);
         }
@@ -21,14 +22,14 @@ namespace ToKillAMockingBirdTests.Mocks
         [ExpectedException(typeof(ArgumentNullException))]
         public void TestIfParameterIsNull()
         {
-            MockOrder order = new MockOrder(null, 4);
+            Order order = new Order(null, 4);
         }
 
         [TestMethod]
         [ExpectedException(typeof(ArgumentException))]
         public void TestIfParameterIsEmpty()
         {
-            MockOrder order = new MockOrder("", 6);
+            Order order = new Order("", 6);
         }
 
         [DataTestMethod]
@@ -39,7 +40,7 @@ namespace ToKillAMockingBirdTests.Mocks
         [ExpectedException(typeof(ArgumentOutOfRangeException))]
         public void TestIfAmountIsOutOfRange(string product, int amount)
         {
-            MockOrder order = new MockOrder(product, amount);
+            Order order = new Order(product, amount);
         }
 
         [DataTestMethod]
@@ -47,7 +48,7 @@ namespace ToKillAMockingBirdTests.Mocks
         [DataRow("Mock", 4)]
         public void TestIfIsFilledStartsWithFalse(string product, int amount)
         {
-            MockOrder order = new MockOrder(product, amount);
+            Order order = new Order(product, amount);
             IWarehouse warehouse = new MockWarehouse();
 
             bool isFilled = order.IsFilled();
@@ -65,7 +66,7 @@ namespace ToKillAMockingBirdTests.Mocks
         [ExpectedException(typeof(OrderAlreadyFilled))]
         public void TestIfFillThrowsAlreadyFilledException(string product, int amount)
         {
-            MockOrder order = new MockOrder(product, amount);
+            Order order = new Order(product, amount);
             IWarehouse warehouse = new MockWarehouse();
 
             order.Fill(warehouse);
@@ -77,9 +78,9 @@ namespace ToKillAMockingBirdTests.Mocks
         [DataRow("Mock", 4)]
         public void TestCanFillOrderIsTrue(string product, int amount)
         {
-            MockOrder order = new MockOrder(product, amount);
-            IWarehouse warehouse = new MockWarehouse();
-            Assert.IsTrue(order.CanFillOrder(warehouse));
+            Order order = new Order(product, amount);
+            var mock = new Mock<IWarehouse>();
+            Assert.IsTrue(order.CanFillOrder(mock.Object));
         }
 
         [DataTestMethod]
@@ -87,7 +88,7 @@ namespace ToKillAMockingBirdTests.Mocks
         [DataRow("Mock", 4)]
         public void TestCanFillOrderIsFalse(string product, int amount)
         {
-            MockOrder order = new MockOrder(product, amount);
+            Order order = new Order(product, amount);
             IWarehouse warehouse = new MockWarehouse();
 
             order.Fill(warehouse);

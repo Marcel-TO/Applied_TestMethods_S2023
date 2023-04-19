@@ -1,6 +1,6 @@
-namespace ToKillAMockingBirdTests.Mocks
+namespace ToKillAMockingBirdTests
 {
-    using MockingbirdLibrary.Mocks;
+    using MockingbirdLibrary;
     using MockingbirdLibrary.Interfaces;
     using MockingbirdLibrary.Exceptions;
 
