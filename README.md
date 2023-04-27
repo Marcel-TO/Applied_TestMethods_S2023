@@ -7,7 +7,7 @@ This repository contains the test exercises from the lecture "Angewandte Testver
 
 # Who watches the watchman?
 <p align="center">
-<img src="./to-kill-a-mockingbird/banner.gif" width="800" >
+<img src="./to-kill-a-mockingbird/banner.gif" width="1000" >
 </p>
 
 ## Assignment
