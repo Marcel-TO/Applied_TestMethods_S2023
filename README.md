@@ -6,6 +6,10 @@ This repository contains the test exercises from the lecture "Angewandte Testver
 - [To kill a Mockingbird (Using Mocks to test a library)](#to-kill-a-mockingbird)
 
 # Who watches the watchman?
+<p align="center">
+<img src="./to-kill-a-mockingbird/banner.gif" object-fit: cover>
+</p>
+
 ## Assignment
 Prepare a comprehensive test that covers the functionality of the <a href="https://files.perry.fyi/hero/" target="_blank">Tour of Heroes Web Application</a>.
 Evaluate the functionality of the application and implement a test using <a href="https://www.selenium.dev/" target="_blank">Selenium</a> for browser automation.
