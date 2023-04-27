@@ -24,7 +24,39 @@ In Python it is common to import external libraries to call important functions.
 
 ## Execution
 **Setting up the webdriver:**
+
+To allow the driver to run on multiple OS like windows and IOS it is important to use the webdriver manager `ChromeDriverManager().install`
 ```py
 self.driver = webdriver.Chrome(ChromeDriverManager().install())
 ```
-To allow the driver to run on multiple OS like windows and IOS it is important to use the webdriver manager `ChromeDriverManager().install`
+
+**Using the Dev Tools:**
+
+Pressing `F12` or `Strg`+`Shift`+`i` allows the user to open the dev tools on any web page and access the html code. Because selenium uses an web driver it has access to the html code as well and generates the possibility to find elements with different properties.
+
+With the help of the combination of finding elements via ID or CLASS....
+```py
+self.dashboardLink = self.driver.find_element(By.LINK_TEXT, "Dashboard")
+```
+
+.... clicking buttons.....
+```py
+self.addHeroBtn = self.driver.find_element(By.CLASS_NAME, "add-button")
+self.addHeroBtn.click()
+```
+
+.... and pressing keys.....
+```py
+self.searchbar = self.driver.find_element(By.ID, "search-box")
+self.searchbar.send_keys(wantedHeroName)
+```
+
+...it is possible to create any desired web scraper. In this specific case it is used to traverse through the provided web page remotely and tests the code quality.
+
+The following possible interactions are beeing tested:
+- get all heroes
+- add a hero
+- search for a hero
+- delete a hero
+- show detailed information about a hero
+- change the name of a hero
