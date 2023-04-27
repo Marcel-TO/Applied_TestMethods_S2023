@@ -15,6 +15,9 @@ class Watchman:
         self.dashboardLink = self.driver.find_element(By.LINK_TEXT, "Dashboard")
         self.heroesLink = self.driver.find_element(By.LINK_TEXT, "Heroes")
         self.go_to_dashboard_page()
+    
+    def close_driver(self):
+        self.driver.close()
         
     def go_to_dashboard_page(self):
         self.dashboardLink.click()
@@ -65,7 +68,7 @@ class Watchman:
             if heroName == heroList[i].name:
                 self.heroesContainer.find_elements(By.CLASS_NAME, "delete")[i].click()
                 return True
-        return True
+        return False
 
     def detailed_hero(self, hero: Hero) -> bool:
         heroList = self.get_all_heroes()
@@ -87,6 +90,7 @@ class Watchman:
         currentName.send_keys(newName)
         saveBtn.click()
         time.sleep(3)
+        return isvalid
 
                 
 
