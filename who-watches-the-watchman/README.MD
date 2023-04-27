@@ -20,3 +20,11 @@ In Python it is common to import external libraries to call important functions.
 ### **Installed Libraries**
 - `pip install beautifulsoup4`
 - `pip install selenium`
+- `pip install webdriver_manager`
+
+## Execution
+**Setting up the webdriver:**
+```py
+self.driver = webdriver.Chrome(ChromeDriverManager().install())
+```
+To allow the driver to run on multiple OS like windows and IOS it is important to use the webdriver manager `ChromeDriverManager().install`

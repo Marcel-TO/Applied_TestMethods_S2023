@@ -3,12 +3,13 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
 import time
 from hero import Hero
 
 class Watchman:
     def __init__(self) -> None:
-        self.driver = webdriver.Chrome()
+        self.driver = webdriver.Chrome(ChromeDriverManager().install())
         page = "https://files.perry.fyi/hero/"
         self.driver.get(page)
         self.dashboardLink = self.driver.find_element(By.LINK_TEXT, "Dashboard")
