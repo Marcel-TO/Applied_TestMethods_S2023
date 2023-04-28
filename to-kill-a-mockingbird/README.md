@@ -1,4 +1,7 @@
 # To Kill a Mockingbird
+<p align="center">
+<img src="./banner.gif" width="1000" >
+</p>
 
 ## Assignment
 Write and test a class library used for managing item stock and orders in a warehouse.

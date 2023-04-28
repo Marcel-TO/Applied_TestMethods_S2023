@@ -7,7 +7,7 @@ This repository contains the test exercises from the lecture "Angewandte Testver
 
 # Who watches the watchman?
 <p align="center">
-<img src="./to-kill-a-mockingbird/banner.gif" width="1000" >
+<img src="./who-watches-the-watchman/banner.gif" width="1000" >
 </p>
 
 ## Assignment
@@ -21,11 +21,22 @@ The assignment will be graded based on
 - Followed Test Practices
 
 ## Execution
-(Python) To be continued.......
+<p>
+  <a href="./to-kill-a-mockingbird">
+    <img src="https://img.shields.io/badge/Go%20to-Watchman-ff69b4"/>
+  </a>
+</p>
 
-<div style="text-align: right"><a href="#applied_testmethods_s2023">scroll to top</a></div>
+<div style="text-align: right">
+  <a href="#applied_testmethods_s2023">
+    <img src="https://img.shields.io/badge/Go%20to-Top-fff"/>
+  </a>
+</div>
 
 # To kill a Mockingbird
+<p align="center">
+<img src="./to-kill-a-mockingbird/banner.gif" width="1000" >
+</p>
 ## Assignment
 Write and test a class library used for managing item stock and orders in a warehouse.
 The IWarehouse interface is defined as such:
@@ -67,6 +78,14 @@ When testing the Order class, use both your custom implementation of IWarehouse 
 Use <a href="https://github.com/moq/moq4" target="_blank">MOQ</a> or an equivalent Mocking library of your choice.
 
 ## Execution
-(C#) To be continued......
+<p>
+  <a href="./to-kill-a-mockingbird">
+    <img src="https://img.shields.io/badge/Go%20to-Mockingbird-brightgreen"/>
+  </a>
+</p>
 
-<div style="text-align: right"><a href="#applied_testmethods_s2023">scroll to top</a></div>
+<div style="text-align: right">
+  <a href="#applied_testmethods_s2023">
+    <img src="https://img.shields.io/badge/Go%20to-Top-fff"/>
+  </a>
+</div>

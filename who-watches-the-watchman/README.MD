@@ -1,4 +1,8 @@
 # Who watches the watchman?
+<p align="center">
+<img src="./banner.gif" width="1000" >
+</p>
+
 ## Assignment
 Prepare a comprehensive test that covers the functionality of the <a href="https://files.perry.fyi/hero/" target="_blank">Tour of Heroes Web Application</a>.
 Evaluate the functionality of the application and implement a test using <a href="https://www.selenium.dev/" target="_blank">Selenium</a> for browser automation.
